@@ -28,14 +28,13 @@
 </p>
 
 ## #Video
-<video width="150" height="100" controls>
-  <source src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9" type="video/mp4">
-</video>
 
 ### *Chạy Thử
-https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9
 
 https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/600d7f80-0cda-47ed-8069-f7d0e4e03a02
+
+https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9
+
 
 ### *Test cảm biến
 https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/a73f50d7-3c18-4a8b-9868-28da99d4ba61
