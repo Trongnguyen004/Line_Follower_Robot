@@ -28,6 +28,10 @@
 </p>
 
 ## #Video
+<video width="320" height="240" controls>
+  <source src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9" type="video/mp4">
+</video>
+
 ### *Chạy Thử
 https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9
 
