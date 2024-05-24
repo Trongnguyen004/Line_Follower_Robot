@@ -1,5 +1,24 @@
 # Line_Follower_Robot
 ### Hình ảnh
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="300">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/5bda47f6-b95c-4b3c-8606-9612b6f7ee98" width="300">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/ba0740fd-513c-4a2f-a0d6-2e8b6d2b3a41" width="300">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/5ab86eb6-c283-4017-9f78-97715a68e9a8" width="300">
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 <p align="center">
     <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="300">
