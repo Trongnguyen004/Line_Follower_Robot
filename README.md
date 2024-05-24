@@ -1,6 +1,6 @@
 # Line_Follower_Robot
 ## #Hình ảnh
-### *
+
 <p align="center">
   <table>
       <td>
@@ -13,7 +13,8 @@
   </table>
 </p>
 
-### Cảm biến QTR8A được tham khảo tại: https://www.pololu.com/product/960
+### *Cảm biến QTR8A được tham khảo tại: https://www.pololu.com/product/960
+
 <p align="center">
   <table>
     <tr>
