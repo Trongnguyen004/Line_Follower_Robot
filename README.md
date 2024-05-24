@@ -28,6 +28,7 @@
   </table>
 </p>
 
+
 ### Video
 <p align="center">
   <table>
@@ -45,6 +46,12 @@
   </table>
 </p>
 
+###
+| Video 1 | Video 2 | Video 3 |
+|---------|---------|---------|
+| ![Video 1](https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9) |
+| ![Video 2](https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/600d7f80-0cda-47ed-8069-f7d0e4e03a02) |
+| ![Video 3](https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/a73f50d7-3c18-4a8b-9868-28da99d4ba61) |
 
 
 https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/67cb3d83-4516-45d8-a72a-21b8230ec6d9
