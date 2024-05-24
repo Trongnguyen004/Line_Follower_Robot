@@ -1,17 +1,8 @@
 # Line_Follower_Robot
 ### Hình ảnh
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="400">
-      </td>
-    </tr>
-  </table>
-</p>
 
 <p align="center">
-    <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="400">
+    <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="300">
 </p>
 
 
