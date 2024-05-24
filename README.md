@@ -4,7 +4,7 @@
 <p align="center">
   <table>
       <td>
-        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="300">
+        <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/636a8158-ef70-4ea3-ab32-5f134e529e24" width="200">
       </td>
       <td>
         <img src="https://github.com/Trongnguyen004/Line_Follower_Robot/assets/137270832/5bda47f6-b95c-4b3c-8606-9612b6f7ee98" width="300">
