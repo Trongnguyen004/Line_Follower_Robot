@@ -13,7 +13,7 @@
   </table>
 </p>
 
-### *
+### Cảm biến QTR8A được tham khảo tại: https://www.pololu.com/product/960
 <p align="center">
   <table>
     <tr>
